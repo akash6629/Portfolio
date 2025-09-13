@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Automation  Testing of Ecommerce WEB Application ",
+    "desc": "Maven-based E-commerce test automation project using Java, Selenium WebDriver, and TestNG. Includes Page Object-based automation scripts, end-to-end test cases, and automatic generation of reports and screenshots ",
+    "image": "report",
+    "category": "Hardware",
+    "links": {
+      "view": "https://github.com/akash6629/water-surface-cleaning-boat/blob/main/README.md",
+      "code": "https://github.com/akash6629/water-surface-cleaning-boat"
+    }
+  },
+  {
+    "name": "Boat",
+    "desc": "Design and Development of Remote Controlled Water Surface Cleaner",
+    "image": "boat",
+    "category": "Hardware",
+    "links": {
+      "view": "https://github.com/akash6629/water-surface-cleaning-boat/blob/main/README.md",
+      "code": "https://github.com/akash6629/water-surface-cleaning-boat"
+    }
+  },
+  {
+    "name": "Anti Sleep Alarm System",
+    "desc": "The anti-sleep alarm system detects signs of drowsiness in drivers, alerting them to stay awake and prevent accidents.",
+    "image": "anti",
+    "category": "Iot",
+    "links": {
+      "view": "https://github.com/akash6629",
+      "code": "https://github.com/akash6629"
+    }
+  },
+  {
+    "name": "Kisaan-Grocery-App",
+    "desc": "Kisaan Grocery App is a mobile application built with Flutter",
+    "image": "logoss",
+    "category": "Software",
+    "links": {
+      "view": "https://github.com/akash6629/Kisaan-Grocery-App",
+      "code": "https://github.com/akash6629/Kisaan-Grocery-App"
+    }
+  },
+  {
+    "name": "Rover",
+    "desc": "Design and Development of Server Computed Autonomous Rover for Pest Detection and Eradication",
+    "image": "rover",
+    "category": "Hardware",
+    "links": {
+      "view": "https://github.com/akash6629",
+      "code": "https://github.com/akash6629"
+    }
+  },
+  {
+    "name": "Home Automation",
+    "desc": "Automating our home, we blend convenience with technology, controlling every aspect with a touch.",
+    "image": "automation",
+    "category": "Iot",
+    "links": {
+      "view": "https://github.com/akash6629",
+      "code": "https://github.com/akash6629"
+    }
+  },
+  {
+    "name": " Agriculture Monitoring System",
+    "desc": "Agro-Tech Guardian: Arduino-Powered Smart Agriculture",
+    "image": "sm",
+    "category": "Hardware",
+    "links": {
+      "view": "https://github.com/akash6629/AgroTech-Guardian-Arduino-Powered-Smart-Agriculture-",
+      "code": "https://github.com/akash6629/AgroTech-Guardian-Arduino-Powered-Smart-Agriculture-/blob/main/code"
+    }
+  },
+  {
+    "name": "RTRS",
+    "desc": "It incorporates user-friendly interfaces and database management to facilitate seamless ticket booking and reservation processes.",
+    "image": "rail",
+    "category": "Software",
+    "links": {
+      "view": "https://github.com/akash6629/RAILWAY-TICKET-RESERVATION-SYSTEM",
+      "code": "https://github.com/akash6629/RAILWAY-TICKET-RESERVATION-SYSTEM/blob/main/CODE"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "It serves as a digital resume, providing a professional online presence and a platform to display projects and accomplishments",
+    "image": "portfolio",
+    "category": "Website",
+    "links": {
+      "view": "https://github.com/akash6629",
+      "code": "https://github.com/akash6629"
+    }
+  },
+  {
+    "name": "POWER BI",
+    "desc": "E-Commerce Sales Report ",
+    "image": "Power",
+    "category": "Software",
+    "links": {
+      "view": "https://github.com/akash6629",
+      "code": "https://github.com/akash6629"
+    }
+  }
+]
